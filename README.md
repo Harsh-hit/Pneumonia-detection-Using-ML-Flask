@@ -1,5 +1,6 @@
 # Pneumonia-detection-Using-ML-Flask
 
+<br>Dataset: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia<br>
 <br>What it does ?<br>
 <br>Our project is a web application that uses machine learning to detect pneumonia and cataracts in medical images. Users can upload an X-ray scan or an eye image, and our model analyzes the image to determine the presence of pneumonia or cataracts.<br>
 <br>How we built it ?<br>
@@ -18,3 +19,5 @@ JavaScript
 TensorFlow
 Keras
 Python<br>
+
+Note please run the Train python notebook to obtain the model weights
